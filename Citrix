@@ -1,3 +1,4 @@
 Version : Citrix is a virtualized platform
 We use DAAS monitor for moniroing purpose
 Test 123
+When users connect from outside the corporate firewall, Citrix Virtual Apps and Desktops can use Citrix Gateway
